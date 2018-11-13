@@ -2,7 +2,7 @@
   "name": "ecommerce",
   "version": "1.0.0",
   "description": "Nuxt.js project",
-  "author": "g0ncharuk <a.v.honcharuk@gmail.com>",
+  "author": "g0ncharuk <g0ncharuk.dev@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "nuxt",
